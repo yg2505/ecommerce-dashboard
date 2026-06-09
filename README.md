@@ -1,15 +1,17 @@
-# 📊 E-Commerce Revenue Analytics Dashboard (Tableau)
+#  E-Commerce Revenue Analytics Dashboard (Tableau)
 
 An interactive **Tableau Dashboard Project** designed to analyze **revenue performance, customer experience, and revenue leakage** in an e-commerce business.  
 This project transforms raw transactional data into executive-level insights using KPI cards, trend charts, maps, category analysis, and customer rating intelligence.
 
+Tableau Public : https://public.tableau.com/app/profile/yashvi.goyal8335/viz/ecommerce_dashboard_17810004857340/totalcustomers
+
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The dashboard suite consists of **3 executive dashboards**:
 
-### 1️⃣ Executive Dashboard
+###  Executive Dashboard
 Provides a high-level summary of:
 
 - Total Revenue
@@ -20,11 +22,11 @@ Provides a high-level summary of:
 - Revenue by Category
 - Revenue by City
 
-📌 Focus: Overall business health and operational performance.
+ Focus: Overall business health and operational performance.
 
 ---
 
-### 2️⃣ Customer Experience vs Revenue Dashboard
+###  Customer Experience vs Revenue Dashboard
 
 Analyzes how customer ratings impact revenue.
 
@@ -36,11 +38,11 @@ Includes:
 - Revenue vs Rating Buckets
 - Rating Distribution Across Categories
 
-📌 Focus: Customer satisfaction and revenue relationship.
+ Focus: Customer satisfaction and revenue relationship.
 
 ---
 
-### 3️⃣ Revenue Leakage & Failure Analysis Dashboard
+###  Revenue Leakage & Failure Analysis Dashboard
 
 Deep dive into failed deliveries and lost revenue.
 
@@ -52,11 +54,11 @@ Includes:
 - Loss Rate % by City
 - Delivered Revenue vs Lost Revenue
 
-📌 Focus: Operational inefficiencies and revenue recovery opportunities.
+ Focus: Operational inefficiencies and revenue recovery opportunities.
 
 ---
 
-# 📈 Key Insights
+#  Key Insights
 
 ## Executive Dashboard
 
@@ -79,7 +81,7 @@ Includes:
 
 ---
 
-# 🛠 Tools Used
+#  Tools Used
 
 - **Tableau Desktop**
 - Data Cleaning & Preparation
@@ -91,7 +93,7 @@ Includes:
 
 ---
 
-# 📂 Dataset Fields Used
+#  Dataset Fields Used
 
 - Order ID
 - Order Date
@@ -103,7 +105,7 @@ Includes:
 
 ---
 
-# 🎯 Business Problems Solved
+#  Business Problems Solved
 
 ✔ Identify revenue leakage sources  
 ✔ Measure customer satisfaction impact on sales  
@@ -111,16 +113,8 @@ Includes:
 ✔ Benchmark product categories  
 ✔ Support executive decision-making
 
----
 
-# 📸 Dashboard Preview
-
-## Executive Dashboard
-![Dashboard 1](tableau/dashboards/executive_dashboard.png)
-
----
-
-# 💡 Future Improvements
+#  Future Improvements
 
 - Predictive churn analysis
 - AI-based demand forecasting
@@ -136,5 +130,3 @@ Includes:
 Aspiring Data Analyst | Tableau | SQL | Python
 
 ---
-
-# ⭐ If you like this project, give it a star!

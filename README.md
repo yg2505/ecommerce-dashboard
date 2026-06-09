@@ -124,7 +124,7 @@ Includes:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Yashvi**  
 Aspiring Data Analyst | Tableau | SQL | Python
